@@ -1,0 +1,54 @@
+[
+  {
+    "id": 27,
+    "name": "Medio Ambiente",
+    "description": "Rectoría ambiental y de los recursos naturales, buscando el equilibrio del patrimonio natural con pertinencia cultural y de género.",
+    "highlight": true,
+    "subCategories": [
+      "/api/sub_categories/44"
+    ],
+    "imageFile": null,
+    "imageName": "iconos-41-62f417329f49c546296557.png",
+    "imageSize": 7480,
+    "imageUrl": "/images/categories/iconos-41-62f417329f49c546296557.png",
+    "createdAt": "2022-07-21T11:16:14-06:00",
+    "updatedAt": "2022-08-24T12:17:41-06:00",
+    "createdBy": "diegoeauyonh@gmail.com",
+    "updatedBy": "herberth.arauz@transparencia.gob.gt"
+  },
+  {
+    "id": 28,
+    "name": "Economía",
+    "description": "Desarrollar condiciones que impulsan la competitividad del país a efecto de posicionar a Guatemala como uno de los mejores destinos para la inversión nacional y extranjera.",
+    "highlight": true,
+    "subCategories": [
+      "/api/sub_categories/50",
+      "/api/sub_categories/58"
+    ],
+    "imageFile": null,
+    "imageName": "iconos-35-62f4173cae7aa630921916.png",
+    "imageSize": 9897,
+    "imageUrl": "/images/categories/iconos-35-62f4173cae7aa630921916.png",
+    "createdAt": "2022-07-21T11:16:14-06:00",
+    "updatedAt": "2022-08-24T12:17:57-06:00",
+    "createdBy": "diegoeauyonh@gmail.com",
+    "updatedBy": "herberth.arauz@transparencia.gob.gt"
+  },
+  {
+    "id": 29,
+    "name": "Territorio, Vivienda e Infraestructura",
+    "description": "Rectoría del sector público a cargo de la ejecución del régimen jurídico relativo a la vivienda y asentamientos humanos, y administrar en forma descentralizada los mecanismos financieros del sector público para propiciar el desarrollo habitacional del país.",
+    "highlight": true,
+    "subCategories": [
+      "/api/sub_categories/54"
+    ],
+    "imageFile": null,
+    "imageName": "iconos-47-62f41721e9023830390596.png",
+    "imageSize": 4538,
+    "imageUrl": "/images/categories/iconos-47-62f41721e9023830390596.png",
+    "createdAt": "2022-07-21T11:16:14-06:00",
+    "updatedAt": "2022-08-24T12:17:28-06:00",
+    "createdBy": "diegoeauyonh@gmail.com",
+    "updatedBy": "herberth.arauz@transparencia.gob.gt"
+  }
+]

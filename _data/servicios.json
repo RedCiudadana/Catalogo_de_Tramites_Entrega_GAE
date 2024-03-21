@@ -1,0 +1,232 @@
+[
+  {
+    "id": 575,
+    "name": "Toma de Muestras y análisis de agua residual",
+    "status": "draft",
+    "institution": {
+      "id": 115,
+      "name": "Autoridad para el Manejo Sustentable de la Cuenca del Lago de Amatitlán  -AMSA-",
+      "type": "Autoridad",
+      "description": "Somos la institución responsable de velar por el manejo sustentable de la Cuenca para lograr la recuperación y conservación del lago de Amatitlán.",
+      "address": "Pendiente",
+      "schedule": "Pendiente",
+      "daysOpen": null,
+      "webpage": "https://amsa.gob.gt/",
+      "email": "Pendiente",
+      "facebookURL": "https://www.facebook.com/AMSAGUATE/",
+      "twitterURL": "Pendiente"
+    },
+    "institutionDepartment": null,
+    "description": "A través de la División de control, calidad ambiental y manejo de lagos, se brinda el servicio de toma de muestras de aguas residuales que posteriormente son analizadas en el laboratorio por el equipo profesional, con equipo moderno. Dichas muestra",
+    "instructions": "<p>1.-  Asistente recibe la solicitud para prestar el servicio de análisis de agua</p>\n\n<p>2.-  Asistente proporciona información de los servicios prestados, indicando disponibilidad de fecha y precios</p>\n\n<p>3.-  Asistente proporciona la boleta de pago.</p>\n\n<p>4.-  Rececpcionista de garita recibe comprobante de pago y emite recibo 63-A2</p>\n\n<p>5.1  En el caso de que el cliente solicite muestreo por personal de AMSA, se informa al personal</p>\n\n<p>5.2  En el caso que el cliente quiere realizar el muestreo, se le comparte el manual de toma de muestras</p>\n\n<p>6.-   Ingreso de datos de los resultados</p>\n\n<p>7.-  Revisión y aprobación de los resultados</p>\n\n<p>8.-  Generación y firma de informe</p>\n\n<p>9.-  Entrega de informe de forma física</p>",
+    "requirements": "1. Solicitud por escrito\r\n2. Realizar pago correspondiente\r\n3. Presentación de comprobante de pago (63-A2)",
+    "cost": 2550,
+    "typeOfCost": null,
+    "variableCostDescription": null,
+    "timeResponse": "20 Días hábiles",
+    "typeOfDocumentObtainable": "Servicio",
+    "url": "https://amsa.gob.gt/?page_id=2492",
+    "subcategory": {
+      "id": 44,
+      "name": "Medio ambiente, recursos naturales, vivienda e infraestructura"
+    },
+    "normative": "Acuerdo Gubernativo 300-214,  ACUERDO GUBERNATIVO DE AGUAS RESIDUALES 236-2006",
+    "highlight": false,
+    "currency": {
+      "id": 1,
+      "name": "Quetzal",
+      "symbol": "Q",
+      "code": "GTQ"
+    },
+    "subcategories": [
+      {
+        "id": 44,
+        "name": "Medio ambiente, recursos naturales, vivienda e infraestructura"
+      }
+    ]
+  },
+  {
+    "id": 576,
+    "name": "Toma de muestras y análisis de agua potable",
+    "status": "draft",
+    "institution": {
+      "id": 115,
+      "name": "Autoridad para el Manejo Sustentable de la Cuenca del Lago de Amatitlán  -AMSA-",
+      "type": "Autoridad",
+      "description": "Somos la institución responsable de velar por el manejo sustentable de la Cuenca para lograr la recuperación y conservación del lago de Amatitlán.",
+      "address": "Pendiente",
+      "schedule": "Pendiente",
+      "daysOpen": null,
+      "webpage": "https://amsa.gob.gt/",
+      "email": "Pendiente",
+      "facebookURL": "https://www.facebook.com/AMSAGUATE/",
+      "twitterURL": "Pendiente"
+    },
+    "institutionDepartment": null,
+    "description": "A través del persoal de la División de control, calidad ambiental y manejo de lagos, se brinda el servicio de toma de muestras de agua destinada para el consumo humano (agua potable), y posteriormente se analizan según los parámetros que demanda",
+    "instructions": "<p>1.-  Asistente recibe la solicitud para prestar el servicio de análisis de agua</p>\n\n<p>2.-  Asistente proporciona información de los servicios prestados, indicando disponibilidad de fecha y precios</p>\n\n<p>3.-  Asistente proporciona la boleta de pago.</p>\n\n<p>4.-  Rececpcionista de garita recibe comprobante de pago y emite recibo 63-A2</p>\n\n<p>5.1  En el caso de que el cliente solicite muestreo por personal de AMSA, se informa al personal</p>\n\n<p>5.2  En el caso que el cliente quiere realizar el muestreo, se le comparte el manual de toma de muestras</p>\n\n<p>6.-   Ingreso de datos de los resultados</p>\n\n<p>7.-  Revisión y aprobación de los resultados</p>\n\n<p>8.-  Generación y firma de informe</p>\n\n<p>9.-  Entrega de informe de forma física</p>",
+    "requirements": "1. Solicitud por escrito\r\n2. Realizar pago correspondiente\r\n3. Presentación de comprobante de pago",
+    "cost": 1550,
+    "typeOfCost": null,
+    "variableCostDescription": null,
+    "timeResponse": "20 Días hábiles",
+    "typeOfDocumentObtainable": "Servicio",
+    "url": "https://amsa.gob.gt/?page_id=2462",
+    "subcategory": {
+      "id": 44,
+      "name": "Medio ambiente, recursos naturales, vivienda e infraestructura"
+    },
+    "normative": "Acuerdo Gubernativo 300-214, Norma Guatemalteca COGUANOR 29001",
+    "highlight": false,
+    "currency": {
+      "id": 1,
+      "name": "Quetzal",
+      "symbol": "Q",
+      "code": "GTQ"
+    },
+    "subcategories": [
+      {
+        "id": 44,
+        "name": "Medio ambiente, recursos naturales, vivienda e infraestructura"
+      }
+    ]
+  },
+  {
+    "id": 577,
+    "name": "Toma de muestras y determinación de metales pesados",
+    "status": "draft",
+    "institution": {
+      "id": 115,
+      "name": "Autoridad para el Manejo Sustentable de la Cuenca del Lago de Amatitlán  -AMSA-",
+      "type": "Autoridad",
+      "description": "Somos la institución responsable de velar por el manejo sustentable de la Cuenca para lograr la recuperación y conservación del lago de Amatitlán.",
+      "address": "Pendiente",
+      "schedule": "Pendiente",
+      "daysOpen": null,
+      "webpage": "https://amsa.gob.gt/",
+      "email": "Pendiente",
+      "facebookURL": "https://www.facebook.com/AMSAGUATE/",
+      "twitterURL": "Pendiente"
+    },
+    "institutionDepartment": null,
+    "description": "A través del persoal de la División de control, calidad ambiental y manejo de lagos, se brinda el servicio de toma de muestras de agua para su análisis y determinaión de metales pesados, tales como: plomo, cromo, mercurio, cadmio, arsénico.",
+    "instructions": "<p>1.-  Asistente recibe la solicitud para prestar el servicio de análisis de agua</p>\n\n<p>2.-  Asistente proporciona información de los servicios prestados, indicando disponibilidad de fecha y precios</p>\n\n<p>3.-  Asistente proporciona la boleta de pago.</p>\n\n<p>4.-  Rececpcionista de garita recibe comprobante de pago y emite recibo 63-A2</p>\n\n<p>5.1  En el caso de que el cliente solicite muestreo por personal de AMSA, se informa al personal</p>\n\n<p>5.2  En el caso que el cliente quiere realizar el muestreo, se le comparte el manual de toma de muestras</p>\n\n<p>6.-   Ingreso de datos de los resultados</p>\n\n<p>7.-  Revisión y aprobación de los resultados</p>\n\n<p>8.-  Generación y firma de informe</p>\n\n<p>9.-  Entrega de informe de forma física</p>",
+    "requirements": "1. Solicitud por escrito\r\n2. Realizar pago correspondiente\r\n3. Presentación de comprobante de pago",
+    "cost": 1550,
+    "typeOfCost": null,
+    "variableCostDescription": null,
+    "timeResponse": "20 Días hábiles",
+    "typeOfDocumentObtainable": "Servicio",
+    "url": "https://amsa.gob.gt/?page_id=2507",
+    "subcategory": {
+      "id": 44,
+      "name": "Medio ambiente, recursos naturales, vivienda e infraestructura"
+    },
+    "normative": "Acuerdo Gubernativo 300-214,  ACUERDO GUBERNATIVO DE AGUAS RESIDUALES 236-2006, Norma Guatemalteca COGUANOR 29001",
+    "highlight": false,
+    "currency": {
+      "id": 1,
+      "name": "Quetzal",
+      "symbol": "Q",
+      "code": "GTQ"
+    },
+    "subcategories": [
+      {
+        "id": 44,
+        "name": "Medio ambiente, recursos naturales, vivienda e infraestructura"
+      }
+    ]
+  },
+  {
+    "id": 578,
+    "name": "Venta de Plantas Forestales, ornamentales y frutales",
+    "status": "draft",
+    "institution": {
+      "id": 115,
+      "name": "Autoridad para el Manejo Sustentable de la Cuenca del Lago de Amatitlán  -AMSA-",
+      "type": "Autoridad",
+      "description": "Somos la institución responsable de velar por el manejo sustentable de la Cuenca para lograr la recuperación y conservación del lago de Amatitlán.",
+      "address": "Pendiente",
+      "schedule": "Pendiente",
+      "daysOpen": null,
+      "webpage": "https://amsa.gob.gt/",
+      "email": "Pendiente",
+      "facebookURL": "https://www.facebook.com/AMSAGUATE/",
+      "twitterURL": "Pendiente"
+    },
+    "institutionDepartment": null,
+    "description": "Al público que necesite plantas de diferentes especies se le puede vender, pues dentro de las instalaciones de AMSA se cuenta con viveros para la producción de plantas. Al momento de requerirse de las plantas se debe hacer el pago correspondiente y",
+    "instructions": "<p>1.- Solicitud de información</p>\n\n<p>2.- Técnico de la división indica la disponibilidad de plantas</p>\n\n<p>3.- El usuario realiza el pago</p>\n\n<p>4.- El técnico de la división revisa los montos y cantidades a despachar.</p>\n\n<p>5-  Se despacha la(s) planta(s).</p>",
+    "requirements": "1. Presentación de recibo 63-A2",
+    "cost": 10,
+    "typeOfCost": null,
+    "variableCostDescription": null,
+    "timeResponse": "30 minutos",
+    "typeOfDocumentObtainable": "Servicio",
+    "url": "https://amsa.gob.gt/?page_id=2601",
+    "subcategory": {
+      "id": 45,
+      "name": "Manipulación de alimentos, animales y vegetales"
+    },
+    "normative": "Acuerdo Gubernativo 300-214",
+    "highlight": false,
+    "currency": {
+      "id": 1,
+      "name": "Quetzal",
+      "symbol": "Q",
+      "code": "GTQ"
+    },
+    "subcategories": [
+      {
+        "id": 45,
+        "name": "Manipulación de alimentos, animales y vegetales"
+      }
+    ]
+  },
+  {
+    "id": 579,
+    "name": "Donación de Plantas Forestales, ornamentales y frutales",
+    "status": "draft",
+    "institution": {
+      "id": 115,
+      "name": "Autoridad para el Manejo Sustentable de la Cuenca del Lago de Amatitlán  -AMSA-",
+      "type": "Autoridad",
+      "description": "Somos la institución responsable de velar por el manejo sustentable de la Cuenca para lograr la recuperación y conservación del lago de Amatitlán.",
+      "address": "Pendiente",
+      "schedule": "Pendiente",
+      "daysOpen": null,
+      "webpage": "https://amsa.gob.gt/",
+      "email": "Pendiente",
+      "facebookURL": "https://www.facebook.com/AMSAGUATE/",
+      "twitterURL": "Pendiente"
+    },
+    "institutionDepartment": null,
+    "description": "A instituciones afines a la protección del ambiente, entro educativos, organizaciones comunitarias, se les puede dar en calidad de donación plantas forestales, ornamentales y frutales. Y se aprovechan las plantas que son producidas en los viveros d",
+    "instructions": "<p>1.-  Recepcionista atiende al usuario indicándole qué división se encarga del proceso de donación de plantas</p>\n\n<p>2.-  Técnico de la división provee de la información del proceso de donación de plantas</p>\n\n<p>3.-  Asistente de Dirección Ejecutiva recepciona la solicitud de Donación de planta para su trámite</p>\n\n<p>4.- Dirección Ejecutiva indica si se sigue con el proceso y notifica a la división Forestal</p>\n\n<p>5.-  Asistente de Dirección Ejecutiva notifica del seguimiento del trámite a la división Forestal</p>\n\n<p>6.-  Jefe de división indica el procedimiento a seguir, despacho o visita técnica.</p>\n\n<p>7.- Visita de campo</p>\n\n<p>8.-  Se realiza el despacho de planta.</p>",
+    "requirements": "1. Solicitud por escrito",
+    "cost": 0,
+    "typeOfCost": null,
+    "variableCostDescription": null,
+    "timeResponse": "1 Día",
+    "typeOfDocumentObtainable": "Servicio",
+    "url": "https://amsa.gob.gt/?page_id=2571",
+    "subcategory": {
+      "id": 44,
+      "name": "Medio ambiente, recursos naturales, vivienda e infraestructura"
+    },
+    "normative": "Acuerdo Gubernativo 300-214",
+    "highlight": false,
+    "currency": {
+      "id": 1,
+      "name": "Quetzal",
+      "symbol": "Q",
+      "code": "GTQ"
+    },
+    "subcategories": [
+      {
+        "id": 44,
+        "name": "Medio ambiente, recursos naturales, vivienda e infraestructura"
+      }
+    ]
+  }
+]

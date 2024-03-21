@@ -1,0 +1,50 @@
+[
+  {
+    "id": 44,
+    "name": "Medio ambiente, recursos naturales, vivienda e infraestructura",
+    "description": "Trámites para regulación de la gestión ambiental, los recursos naturales, normas técnicas, vivienda e infraestructura",
+    "category": "/api/categories/27",
+    "highlight": false,
+    "imageFile": null,
+    "imageName": null,
+    "imageSize": null,
+    "imageUrl": null,
+    "createdAt": "2022-07-21T11:16:14-06:00",
+    "updatedAt": "2022-08-24T14:28:05-06:00",
+    "createdBy": "diegoeauyonh@gmail.com",
+    "updatedBy": "herberth.arauz@transparencia.gob.gt",
+    "nameAndCategory": "Medio ambiente, recursos naturales, vivienda e infraestructura - Medio Ambiente"
+  },
+  {
+    "id": 45,
+    "name": "Manipulación de alimentos, animales y vegetales",
+    "description": "Trámites relacionados con manejo de alimentos, animales y vegetales para realizar solicitudes, autorizaciones, licencias, permisos y otros.",
+    "category": "/api/categories/35",
+    "highlight": false,
+    "imageFile": null,
+    "imageName": null,
+    "imageSize": null,
+    "imageUrl": null,
+    "createdAt": "2022-07-21T11:16:14-06:00",
+    "updatedAt": "2022-08-24T14:28:18-06:00",
+    "createdBy": "diegoeauyonh@gmail.com",
+    "updatedBy": "herberth.arauz@transparencia.gob.gt",
+    "nameAndCategory": "Manipulación de alimentos, animales y vegetales - Manejo de Animales y Vegetales"
+  },
+  {
+    "id": 46,
+    "name": "Programas educativos, becas y ayudas sociales",
+    "description": "Gestionar estudios formales para fortalecer habilidades para integrarse al mercado laboral, educación media y superior, capacitación productiva y empleabilidad.",
+    "category": "/api/categories/30",
+    "highlight": false,
+    "imageFile": null,
+    "imageName": null,
+    "imageSize": null,
+    "imageUrl": null,
+    "createdAt": "2022-07-21T11:16:14-06:00",
+    "updatedAt": "2022-08-24T14:29:11-06:00",
+    "createdBy": "diegoeauyonh@gmail.com",
+    "updatedBy": "herberth.arauz@transparencia.gob.gt",
+    "nameAndCategory": "Programas educativos, becas y ayudas sociales - Educación, Cultura y Deporte"
+  }
+]

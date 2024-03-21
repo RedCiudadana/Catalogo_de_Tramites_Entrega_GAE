@@ -1,0 +1,67 @@
+[
+  {
+    "id": 113,
+    "name": "Comisión Portuaria Nacional -CPN-",
+    "type": "Comisión",
+    "description": "Defender los intereses nacionales en todos los asuntos que se relacionan con las actividades portuarias y representar a la Nación ante los Organismos Nacionales e Internacionales, específicamente ante la Comisión Centroamericana de Transporte Marítimo (COCATRAM)",
+    "address": "Pendiente",
+    "schedule": "Pendiente",
+    "daysOpen": null,
+    "webpage": "Pendiente",
+    "email": "Pendiente",
+    "facebookURL": "Pendiente",
+    "twitterURL": "Pendiente"
+  },
+  {
+    "id": 114,
+    "name": "Comisión Presidencial Contra la Discriminación y Racismo -CODISRA-",
+    "type": "Comisión",
+    "description": "Pendiente",
+    "address": "Pendiente",
+    "schedule": "Pendiente",
+    "daysOpen": null,
+    "webpage": "Pendiente",
+    "email": "Pendiente",
+    "facebookURL": "Pendiente",
+    "twitterURL": "Pendiente"
+  },
+  {
+    "id": 115,
+    "name": "Autoridad para el Manejo Sustentable de la Cuenca del Lago de Amatitlán  -AMSA-",
+    "type": "Autoridad",
+    "description": "Somos la institución responsable de velar por el manejo sustentable de la Cuenca para lograr la recuperación y conservación del lago de Amatitlán.",
+    "address": "Pendiente",
+    "schedule": "Pendiente",
+    "daysOpen": null,
+    "webpage": "https://amsa.gob.gt/",
+    "email": "Pendiente",
+    "facebookURL": "https://www.facebook.com/AMSAGUATE/",
+    "twitterURL": "Pendiente"
+  },
+  {
+    "id": 116,
+    "name": "Autoridad para el Manejo Sustentable de la Cuenca del Lago de Atitlán y su Entorno -AMSCLAE-",
+    "type": "Autoridad",
+    "description": "Somos la Autoridad que planifica, norma, coordina y ejecuta acciones con el sector público y privado para conservar, preservar y resguardar la Cuenca del Lago de Atitlán y su Entorno",
+    "address": "Pendiente",
+    "schedule": "Pendiente",
+    "daysOpen": null,
+    "webpage": "https://www.amsclae.gob.gt/",
+    "email": "Pendiente",
+    "facebookURL": "https://es-la.facebook.com/amsclae",
+    "twitterURL": "Pendiente"
+  },
+  {
+    "id": 117,
+    "name": "Comisión Nacional de Energía Eléctrica -CNEE-",
+    "type": "Comisión",
+    "description": "Velar por el cumplimiento de la Ley General de Electricidad y su Reglamento regulando a favor de la eficiencia estabilidad y sostenibilidad del subsector eléctrico de Guatemala.",
+    "address": "Pendiente",
+    "schedule": "Pendiente",
+    "daysOpen": null,
+    "webpage": "https://www.cnee.gob.gt/wp/",
+    "email": "Pendiente",
+    "facebookURL": "https://www.facebook.com/people/CNEE-Guatemala/100069430950165/",
+    "twitterURL": "Pendiente"
+  }
+]
