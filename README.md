@@ -12,6 +12,8 @@ Este proyecto está construido utilizando el generador de páginas estáticas [1
 
 La data del proyecto se maneja a través de la carpeta `_data`. Aquí es donde el proyecto se comunica con la API del sitio (base de datos) para obtener información sobre los servicios, instituciones y categorías disponibles. Esta estructura permite una fácil gestión y actualización de los contenidos del sitio sin necesidad de alterar el código fuente.
 
+Los elementos de la página, font, iconos, paleta de color, etc... se encuentran en la carpeta ELEMENTOS.
+
 ## Configuración y Uso
 
 Para poner en marcha el proyecto, es necesario tener instalado [Node.js](https://nodejs.org/) y [npm](https://www.npmjs.com/). Una vez instalados, sigue los siguientes pasos:
