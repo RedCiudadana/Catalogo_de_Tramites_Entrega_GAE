@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Catálogo de Trámites
 
 Este proyecto está construido utilizando el generador de páginas estáticas [11ty](https://www.11ty.dev/), aprovechando las plantillas de [Nunjucks](https://mozilla.github.io/nunjucks/) y JavaScript para implementar filtros de búsqueda. Es una solución eficaz para crear sitios web optimizados y fáciles de mantener.
 
